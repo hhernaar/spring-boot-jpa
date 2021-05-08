@@ -19,5 +19,5 @@ El archivo formatter usado para el código del proyecto fue:
 * Spring Boot 2.4.5
 * [Maven](https://maven.apache.org/) - Dependency Management
 
-## Authors
+## Autor
 * **Aaron Hernandez** - *[Back-End Developer]* - @hhernaar
