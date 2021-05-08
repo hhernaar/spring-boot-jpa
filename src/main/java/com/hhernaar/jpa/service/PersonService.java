@@ -1,8 +1,8 @@
 package com.hhernaar.jpa.service;
 
 import java.util.List;
+import com.hhernaar.jpa.exception.NotFoundException;
 import com.hhernaar.jpa.model.PersonModel;
-import javassist.NotFoundException;
 
 
 /**

@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import com.hhernaar.jpa.exception.NotFoundException;
 import com.hhernaar.jpa.model.PersonModel;
 import com.hhernaar.jpa.repository.PersonRepository;
 import com.hhernaar.jpa.service.PersonService;
-import javassist.NotFoundException;
 
 @Service
 public class PersonServiceImpl implements PersonService {
