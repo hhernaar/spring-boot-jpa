@@ -1,7 +1,8 @@
 # JPA - Ejemplo Básico
 
 >  Servicio REST básico que muestra el funcionamiento de spring boot en conjunto con jpa.
- 
+>
+> *Para más informacion ver la documentación de [Spring](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.repositories)*
 ## Prerequisitos
 ```
 java jdk 1.8
@@ -18,5 +19,5 @@ El archivo formatter usado para el código del proyecto fue:
 * Spring Boot 2.4.5
 * [Maven](https://maven.apache.org/) - Dependency Management
 
-## Authors
+## Autor
 * **Aaron Hernandez** - *[Back-End Developer]* - @hhernaar
