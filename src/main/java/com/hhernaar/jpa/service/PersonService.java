@@ -36,7 +36,7 @@ public interface PersonService {
 
 
   /**
-   * List all persons in repository.
+   * List people in repository.
    * 
    * @return List of {@link PersonModel }
    * @author hhernaar
